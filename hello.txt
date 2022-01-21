@@ -3,5 +3,5 @@ hello git! change2
 hello git! change3(hotfix)
 hello git!
 hello git!
-hello git!
+hello git! master test
 hello git!
