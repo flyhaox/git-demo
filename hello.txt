@@ -1,6 +1,6 @@
 hello git! change1
 hello git! change2
-hello git!
+hello git! change3(hotfix)
 hello git!
 hello git!
 hello git!
